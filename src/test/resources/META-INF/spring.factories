@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = \
+    io.github.santhoshkani.micro.config.\
+    SqlTestContainersSpringContextCustomizerFactory
